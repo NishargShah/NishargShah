@@ -1,8 +1,8 @@
-### Hi there, I'm [Nisharg Shah!](https://nishargshah.com) 👋
+## Hi there, I'm [Nisharg Shah!](https://nishargshah.com) 👋
 
 Hi, I'm Nisharg Shah, a passionate self-taught MERN Stack Developer from India.
 
-#### Languages and Tools
+### Languages and Tools
 
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
@@ -42,11 +42,14 @@ Hi, I'm Nisharg Shah, a passionate self-taught MERN Stack Developer from India.
 
 <img align="left" alt="Kubernetes" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png">
 
-#### Github Stats
+<br />
+<br />
+
+### Github Stats
 
 <img alt="Nisharg Shah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NishargShah&show_icons=true&count_private=true" />
 
-#### My Favourite Languages & Frameworks
+### My Favourite Languages & Frameworks
 
 <div class="giphy-icons">
     <img style="margin-right: 1rem;" src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.webp" width="100" />
