@@ -1,15 +1,8 @@
 ### Hi there, I'm [Nisharg Shah!](https://nishargshah.com) 👋
 
-<br />
-<br />
-
-Hi, I'm Nisharg Shah, a passionate self-taught MERN Stack Developer from India. 
-
-<!-- I'm a fourth year IT student at [SOU!](http://silveroakuni.ac.in) -->
-
+Hi, I'm Nisharg Shah, a passionate self-taught MERN Stack Developer from India.
 
 **Languages and Tools:**  
-
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
@@ -54,7 +47,11 @@ Hi, I'm Nisharg Shah, a passionate self-taught MERN Stack Developer from India.
 <br />
 <br />
 
-### My Favourite Languages 
+**Github Stats**
+
+<img alt="Nisharg Shah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NishargShah&show_icons=true&count_private=true" />
+
+**My Favourite Languages & Frameworks**
 
 <div class="giphy-icons">
     <img style="margin-right: 1rem;" src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.webp" width="100" />
