@@ -1,6 +1,8 @@
-## Hi there, I'm [Nisharg Shah!](https://nishargshah.com) 👋
+## Hi there, I'm [Nisharg Shah!](https://nishargshah.dev) 👋
 
 Hi, I'm Nisharg Shah, a passionate self-taught MERN Stack Developer from India.
+
+![](https://komarev.com/ghpvc/?username=NishargShah)
 
 ### Languages and Tools
 
@@ -9,8 +11,6 @@ Hi, I'm Nisharg Shah, a passionate self-taught MERN Stack Developer from India.
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
 <img align="left" alt="SCSS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
-
-<img align="left" alt="Bootstarp" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
 
 <img align="left" alt="Javascript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 
@@ -26,8 +26,6 @@ Hi, I'm Nisharg Shah, a passionate self-taught MERN Stack Developer from India.
 
 <img align="left" alt="Express" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png">
 
-<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-
 <img align="left" alt="Git" width="30px" src="https://img.icons8.com/color/48/000000/git.png" />
 
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />
@@ -42,7 +40,7 @@ Hi, I'm Nisharg Shah, a passionate self-taught MERN Stack Developer from India.
 
 ### Github Stats
 
-<img alt="Nisharg Shah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NishargShah&show_icons=true&count_private=true" />
+<img alt="Nisharg Shah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NishargShah&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
 
 ### My Favourite Languages & Frameworks
 
