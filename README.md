@@ -4,45 +4,90 @@ Hi, I'm Nisharg Shah, a passionate self-taught MERN Stack Developer from India.
 
 ![](https://komarev.com/ghpvc/?username=NishargShah)
 
-### Languages and Tools
-
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img align="left" alt="SCSS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
-
-<img align="left" alt="Javascript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-
-<img align="left" alt="Typescript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-
-<img align="left" alt="React.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-
-<img align="left" alt="Vue.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
-
-<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
-
-<img align="left" alt="NodeJS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-
-<img align="left" alt="Express" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png">
-
-<img align="left" alt="Git" width="30px" src="https://img.icons8.com/color/48/000000/git.png" />
-
-<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />
-
-<img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
-
-<img align="left" alt="Kubernetes" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png">
-
-<br />
-<br />
-<br />
-
-### Github Stats
+## Github Stats
 
 <img alt="Nisharg Shah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NishargShah&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
 
-### My Favourite Languages & Frameworks
+## Tech Stack
+
+#### Main
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="TypeScript" />
+</p>
+
+#### Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=sass" height="30" alt="SASS" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=materialui" height="30" alt="Material UI" />
+  <img src="https://skillicons.dev/icons?i=styledcomponents" height="30" alt="Styled Components" />
+</p>
+
+#### Frontend Frameworks/Libs
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=vue" height="30" alt="Vue.js" />
+  <img src="https://skillicons.dev/icons?i=nuxtjs" height="30" alt="Nuxt.js" />
+</p>
+
+#### Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="Express.js" />
+</p>
+
+#### Testing
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=jest" height="30" alt="Jest" />
+  <img src="https://skillicons.dev/icons?i=vitest" height="30" alt="Vitest" />
+</p>
+
+#### Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=redis" height="30" alt="Redis" />
+</p>
+
+#### Cloud & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="Vercel" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="Kubernetes" />
+</p>
+
+#### Developer Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=pnpm" height="30" alt="PNPM" />
+  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="Vite" />
+</p>
+
+#### IDEs & Design Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="VSCode" />
+  <img src="https://skillicons.dev/icons?i=webstorm" height="30" alt="WebStorm" />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="Figma" />
+</p>
+
+## My Favourite Languages & Frameworks
 
 <div class="giphy-icons">
     <img style="margin-right: 1rem;" src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.webp" width="100" />
@@ -53,8 +98,7 @@ Hi, I'm Nisharg Shah, a passionate self-taught MERN Stack Developer from India.
     <img style="margin-right: 1rem;" src="https://i.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100" />
 </div>
 
-<br />
-<br />
+## Follow
 
 <a href="https://nishargshah.dev" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/Website-212529.svg?&style=for-the-badge&logoColor=white" />
