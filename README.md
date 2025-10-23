@@ -18,11 +18,11 @@ Hi, I'm Nisharg Shah, a passionate self-taught MERN Stack Developer from India.
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="HTML" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=sass" height="30" alt="SASS" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="Bootstrap" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="Bootstrap" />
   <img src="https://skillicons.dev/icons?i=materialui" height="30" alt="Material UI" />
   <img src="https://skillicons.dev/icons?i=styledcomponents" height="30" alt="Styled Components" />
+  <img src="https://skillicons.dev/icons?i=sass" height="30" alt="SASS" />
 </p>
 
 #### Frontend Frameworks/Libs
@@ -70,9 +70,9 @@ Hi, I'm Nisharg Shah, a passionate self-taught MERN Stack Developer from India.
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="Git" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="Postman" />
   <img src="https://skillicons.dev/icons?i=pnpm" height="30" alt="PNPM" />
   <img src="https://skillicons.dev/icons?i=vite" height="30" alt="Vite" />
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="Postman" />
 </p>
 
 #### IDEs & Design Tools
