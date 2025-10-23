@@ -94,7 +94,6 @@ Hi, I'm Nisharg Shah, a passionate self-taught MERN Stack Developer from India.
     <img style="margin-right: 1rem;" src="https://media3.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" />
     <img style="margin-right: 1rem;" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" />
     <img style="margin-right: 1rem;" src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100" />
-    <img style="margin-right: 1rem;" src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100" />
     <img style="margin-right: 1rem;" src="https://i.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100" />
 </div>
 
