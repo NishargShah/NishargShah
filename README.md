@@ -4,10 +4,6 @@ Hi, I'm Nisharg Shah, a passionate self-taught MERN Stack Developer from India.
 
 ![](https://komarev.com/ghpvc/?username=NishargShah)
 
-## Github Stats
-
-<img alt="Nisharg Shah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NishargShah&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
-
 ## Tech Stack
 
 #### Main
@@ -90,12 +86,16 @@ Hi, I'm Nisharg Shah, a passionate self-taught MERN Stack Developer from India.
 ## My Favourite Languages & Frameworks
 
 <div class="giphy-icons">
-    <img style="margin-right: 1rem;" src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.webp" width="100" />
-    <img style="margin-right: 1rem;" src="https://media3.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" />
-    <img style="margin-right: 1rem;" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" />
-    <img style="margin-right: 1rem;" src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100" />
-    <img style="margin-right: 1rem;" src="https://i.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100" />
+  <img style="margin-right: 1rem;" src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.webp" width="100" />
+  <img style="margin-right: 1rem;" src="https://media3.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" />
+  <img style="margin-right: 1rem;" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" />
+  <img style="margin-right: 1rem;" src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100" />
+  <img style="margin-right: 1rem;" src="https://i.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100" />
 </div>
+
+## Github Stats
+
+<img alt="Nisharg Shah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NishargShah&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
 
 ## Follow
 
