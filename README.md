@@ -6,82 +6,84 @@ Hi, I'm Nisharg Shah, a passionate self-taught MERN Stack Developer from India.
 
 ## Tech Stack
 
-#### Main
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="TypeScript" />
-</p>
-
-#### Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="Tailwind CSS" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="Bootstrap" />
-  <img src="https://skillicons.dev/icons?i=materialui" height="30" alt="Material UI" />
-  <img src="https://skillicons.dev/icons?i=styledcomponents" height="30" alt="Styled Components" />
-  <img src="https://skillicons.dev/icons?i=sass" height="30" alt="SASS" />
-</p>
-
-#### Frontend Frameworks/Libs
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="React" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="Next.js" />
-  <img src="https://skillicons.dev/icons?i=vue" height="30" alt="Vue.js" />
-  <img src="https://skillicons.dev/icons?i=nuxtjs" height="30" alt="Nuxt.js" />
-</p>
-
-#### Backend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="Node.js" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="Express.js" />
-</p>
-
-#### Testing
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=jest" height="30" alt="Jest" />
-  <img src="https://skillicons.dev/icons?i=vitest" height="30" alt="Vitest" />
-</p>
-
-#### Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=redis" height="30" alt="Redis" />
-</p>
-
-#### Cloud & DevOps
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="AWS" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="Vercel" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="Kubernetes" />
-</p>
-
-#### Developer Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=pnpm" height="30" alt="PNPM" />
-  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="Vite" />
-  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="Postman" />
-</p>
-
-#### IDEs & Design Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="VSCode" />
-  <img src="https://skillicons.dev/icons?i=webstorm" height="30" alt="WebStorm" />
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="Figma" />
-</p>
+<table>
+  <tr>
+    <td><strong>Main</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js" height="36" alt="JavaScript" />
+      <img src="https://skillicons.dev/icons?i=ts" height="36" alt="TypeScript" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html" height="36" alt="HTML" />
+      <img src="https://skillicons.dev/icons?i=css" height="36" alt="CSS" />
+      <img src="https://skillicons.dev/icons?i=tailwind" height="36" alt="Tailwind CSS" />
+      <img src="https://skillicons.dev/icons?i=bootstrap" height="36" alt="Bootstrap" />
+      <img src="https://skillicons.dev/icons?i=materialui" height="36" alt="Material UI" />
+      <img src="https://skillicons.dev/icons?i=styledcomponents" height="36" alt="Styled Components" />
+      <img src="https://skillicons.dev/icons?i=sass" height="36" alt="SASS" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frontend Frameworks/Libs</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react" height="36" alt="React" />
+      <img src="https://skillicons.dev/icons?i=nextjs" height="36" alt="Next.js" />
+      <img src="https://skillicons.dev/icons?i=vue" height="36" alt="Vue.js" />
+      <img src="https://skillicons.dev/icons?i=nuxtjs" height="36" alt="Nuxt.js" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs" height="36" alt="Node.js" />
+      <img src="https://skillicons.dev/icons?i=express" height="36" alt="Express.js" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Testing</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=jest" height="36" alt="Jest" />
+      <img src="https://skillicons.dev/icons?i=vitest" height="36" alt="Vitest" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mongodb" height="36" alt="MongoDB" />
+      <img src="https://skillicons.dev/icons?i=postgres" height="36" alt="PostgreSQL" />
+      <img src="https://skillicons.dev/icons?i=redis" height="36" alt="Redis" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Cloud & DevOps</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=aws" height="36" alt="AWS" />
+      <img src="https://skillicons.dev/icons?i=docker" height="36" alt="Docker" />
+      <img src="https://skillicons.dev/icons?i=vercel" height="36" alt="Vercel" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Developer Tools</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git" height="36" alt="Git" />
+      <img src="https://skillicons.dev/icons?i=github" height="36" alt="GitHub" />
+      <img src="https://skillicons.dev/icons?i=pnpm" height="36" alt="PNPM" />
+      <img src="https://skillicons.dev/icons?i=vite" height="36" alt="Vite" />
+      <img src="https://skillicons.dev/icons?i=postman" height="36" alt="Postman" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>IDEs & Design Tools</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=vscode" height="36" alt="VSCode" />
+      <img src="https://skillicons.dev/icons?i=webstorm" height="36" alt="WebStorm" />
+      <img src="https://skillicons.dev/icons?i=figma" height="36" alt="Figma" />
+    </td>
+  </tr>
+</table>
 
 ## My Favourite Languages & Frameworks
 
